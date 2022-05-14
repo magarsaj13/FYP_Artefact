@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FYP_artefact</string>
+    <string name="click_here">" यहाँ क्लिक गर्नुहोस्"</string>
+    <string name="dont_have_an_account">खाता छैन?</string>
+    <string name="login">" लग - इन"</string>
+    <string name="password">" पासवर्ड"</string>
+    <string name="store_id">स्टोर आईडी</string>
+    <string name="title">" सरल व्यवस्थापन"</string>
+    <string name="create_an_account">"खाता खोल्नुहोस् "</string>
+    <string name="confirm_password">"पासवर्ड सुनिश्चित गर्नुहोस "</string>
+    <string name="store_name">स्टोरको नाम</string>
+    <string name="women">महिला</string>
+    <string name="mens">केटा</string>
+    <string name="update_items">वस्तुहरू अद्यावधिक गर्नुहोस्</string>
+    <string name="add_items">वस्तुहरू थप्नुहोस्</string>
+    <string name="uniqueid">" अद्वितीय आईडी"</string>
+    <string name="category">" श्रेणी"</string>
+    <string name="quantity">मात्रा</string>
+    <string name="price">मूल्य</string>
+    <string name="item_name">" वस्तुको नाम"</string>
+    <string name="men">पुरुष</string>
+    <string name="prompt">!!कोटिहरू या त पुरुष, महिला वा सामान्य मात्र हुन् !!</string>
+    <string name="item_list">वस्तु सूची</string>
+    <string name="delete_items">Delete Items</string>
+    <string name="delete_all">Delete All</string>
+</resources>
